@@ -1,5 +1,5 @@
 # Python Weather App
-Very basic Python weather app built using OpenWeatherMap API, and tkinter.
+*Very basic Python weather app built using OpenWeatherMap API, and tkinter.*
 
 **What I enjoyed while building this app:** I wanted to be sure that I'm keeping up with my Python while I've spent so much time on the front-end focus of my bootcamp. I don't want to forget what I learned! It was really nice to come back to Python and learn about how to call APIs in Python programs. 
 
